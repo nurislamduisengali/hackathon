@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "441748608551",
+    "firebase_url": "https://smartqala-c1d06-default-rtdb.firebaseio.com",
+    "project_id": "smartqala-c1d06",
+    "storage_bucket": "smartqala-c1d06.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441748608551:android:02f9b2f2646e9d7f9d6002",
+        "android_client_info": {
+          "package_name": "com.example.smartqala_hackathon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvGXo3jz4kn9n7HxU-XqTCBT49R-w6zKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
